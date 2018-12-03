@@ -1,2 +1,2 @@
 # helloworld
-Test only
+This is package for testing purposes only
