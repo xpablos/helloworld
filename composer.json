@@ -5,6 +5,7 @@
         "name": "Pavel Truksa",
         "email": "pavel@truksa.com"
     }],
+    "license": "MIT",
     "require": {
         "php": ">=7.1.0"
     },
